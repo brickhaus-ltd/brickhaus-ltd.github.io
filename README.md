@@ -1,2 +1,2 @@
 # brickhaus-ltd.github.io
-site, for organization.
+goto <a href="index.html">[index]</a>
